@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO307: Microbiology"
+course_description: "An examination of how to understand microorganisms, including their taxonomy and identification, chemistry and metabolism, growth, reproduction, and genetic characteristics. Particular emphasis on the common organisms that cause human disease, including bacteria, fungi, protozoa and helminthes, and viruses.
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Defense Against Microbes** <span id="9"></span> 
 *This unit will discuss the major defenses we have against
 disease-causing microbes. With all of the microorganisms that threaten

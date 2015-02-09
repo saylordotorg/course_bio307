@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO307: Microbiology"
+course_description: "An examination of how to understand microorganisms, including their taxonomy and identification, chemistry and metabolism, growth, reproduction, and genetic characteristics. Particular emphasis on the common organisms that cause human disease, including bacteria, fungi, protozoa and helminthes, and viruses.
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Fungi** <span id="6"></span> 
 *Mycology, or the study of fungi, focuses on a diverse set of eukaryotic
 organisms that range from microscopic single-cells to large mushrooms.

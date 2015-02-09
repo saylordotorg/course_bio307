@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO307: Microbiology"
+course_description: "An examination of how to understand microorganisms, including their taxonomy and identification, chemistry and metabolism, growth, reproduction, and genetic characteristics. Particular emphasis on the common organisms that cause human disease, including bacteria, fungi, protozoa and helminthes, and viruses.
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Protozoa and Helminths** <span id="7"></span> 
 *ProEukaryotes include Fungi, Algae, Protozoa, and Helminths. This unit
 discusses protozoa and helminths, which are parasites. Parasites are, by

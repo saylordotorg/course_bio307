@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO307: Microbiology"
+course_description: "An examination of how to understand microorganisms, including their taxonomy and identification, chemistry and metabolism, growth, reproduction, and genetic characteristics. Particular emphasis on the common organisms that cause human disease, including bacteria, fungi, protozoa and helminthes, and viruses.
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Microbes** <span id="1"></span> 
 *Microbes are microscopic; thus, we cannot see them by the naked eye.
 Antoni van Leeuwenhoek crafted the first microscope lenses that

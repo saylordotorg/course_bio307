@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO307: Microbiology"
+course_description: "An examination of how to understand microorganisms, including their taxonomy and identification, chemistry and metabolism, growth, reproduction, and genetic characteristics. Particular emphasis on the common organisms that cause human disease, including bacteria, fungi, protozoa and helminthes, and viruses.
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Viruses** <span id="8"></span> 
 *This unit will introduce you to viruses. Viruses are in the grey zone
 between life and inorganic matter. You have learned in [BIO301: Cell

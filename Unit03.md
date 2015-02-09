@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO307: Microbiology"
+course_description: "An examination of how to understand microorganisms, including their taxonomy and identification, chemistry and metabolism, growth, reproduction, and genetic characteristics. Particular emphasis on the common organisms that cause human disease, including bacteria, fungi, protozoa and helminthes, and viruses.
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Bacterial Growth, Reproduction, and Genetics** <span
 id="3"></span> 
 *This course focuses on bacteria, the most studied type of

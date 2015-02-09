@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO307: Microbiology"
+course_description: "An examination of how to understand microorganisms, including their taxonomy and identification, chemistry and metabolism, growth, reproduction, and genetic characteristics. Particular emphasis on the common organisms that cause human disease, including bacteria, fungi, protozoa and helminthes, and viruses.
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Microbial Metabolism** <span id="2"></span> 
 *Cellular metabolism is the collection of all chemical reaction that
 takes place in the cell. You have already studied cellular metabolism in
