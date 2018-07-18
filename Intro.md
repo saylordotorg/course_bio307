@@ -1,142 +1,128 @@
 ---
 layout: default
 title: "BIO307: Microbiology"
-course_description: "An examination of how to understand microorganisms, including their taxonomy and identification, chemistry and metabolism, growth, reproduction, and genetic characteristics. Particular emphasis on the common organisms that cause human disease, including bacteria, fungi, protozoa and helminthes, and viruses."
+course_description: "Study that focuses on understanding microorganisms including their taxonomy and identification, chemistry and metabolism, growth, reproduction, and genetic characteristics. Particular emphasis on the common organisms that cause human disease, including bacteria, fungi, protozoa and helminthes, and viruses and other microbe uses and antimicrobial treatments are examined.
+"
 next: ../Unit01
 previous: ../../../
 ---
-Course Syllabus for "BIO307: Microbiology"
-------------------------------------------
+Welcome to **BIO307: Microbiology**. General information on the course and its requirements can be found below.
 
-Even in ancient times, scholars believed that diseases could be spread
-by organisms too small to be seen by the naked eye. Before we discovered
-that bacteria cells were the real culprits, many attributed disease to
-other sources. Now that scientists have definitively identified the
-microscopic causes of various infectious diseases, microbiology, or the
-study of microscopic-sized organisms, has become an increasingly
-important field in biology and in the larger biomedical community. Most
-microbes are harmless. Some of them are essential for life on Earth,
-e.g. through their ability to fix nitrogen. Biotechnology, which is
-truly the industry of our times, takes advantage of microbes for the
-production of a variety of complex substances, and it also mass-produces
-natural and engineered microbes for human use. This course will cover a
-range of diverse areas of microbiology, including virology,
-bacteriology, and applied microbiology. This course will focus on the
-medical aspects of microbiology, as medical research has been the
-primary motivator in microbiology research. This course pairs well with
-[BIO407: Immunology](http://www.saylor.org/courses/bio407/), which
-studies the body’s defenses against foreign invaders in great detail.
 
-### Learning Outcomes
+
+**Course Designer:** Amy L. Thompson, PhD, MLS (ASCP)
+
+
+
+
+
+  
+
+
+
+
+
+  
+**Evaluation and Minimum Passing Scores**
+
+
+
+
+
+In order to pass this course, you will need to earn a **70% or higher on the final exam**. Your score on the exam will be tabulated as soon as you complete it. If you do not pass the exam on your first attempt, you may take it again as many times as needed, following a 7-day waiting period between each attempt. 
+
+
+
+
+
+  
+You will only receive an official grade on your final exam. However, in order to adequately prepare for this exam, we recommend that you work through the materials in each unit. Throughout the course you may find practice quizzes or other assignments that will help you master material and gauge your learning. Scores on these assignments are informational only and do not contribute to your overall course grade.  
+  
+
+
+
+
+
+  
+
+
+
+
+
+##### **Technical Requirements**
+
+This course is delivered fully online. You will be required to have access to a computer or web-capable mobile device and have consistent access to the internet to either view or download the necessary course resources and to attempt any auto-graded course assessments and the final exam.
+
+To access the full course including assessments and the final exam, you will need to be logged into your Saylor Academy account and enrolled in the course. If you do not already have an account, you may create one, free of charge, [here](https://learn.saylor.org/login/index.php). Although you can access some course resources without being logged into your account, it’s advised that you log in to maximize your course experience. For example, some of the accessibility and progress tracking features are only available when you are logged in.
+
+For additional technical guidance check out Saylor’s tech-[FAQ](https://sayloracademy.zendesk.com/hc/en-us) and the [Moodle LMS tutorial](https://www.youtube.com/watch?v=Ok0xFGyol_k).
+
+##### **Fees**
+
+There is **no cost to access and enroll in this course**. All required course resources linked throughout the course, including textbooks, videos, webpages, activities, etc are accessible for no charge. This course also contains a free final exam and course completion certificate.
+
+  
+
+
+
+
+
+##### **Time Commitment**
+
+While learning styles can vary considerably and any particular student will take more or less time to learn or read, we estimate that the "average" student will take** 128 hours** to complete this course. Each unit within the course is similarly tagged with an estimated time advisory. We recommend that you work through the course at a pace that is comfortable for you and allows you to make regular (daily, or at least weekly) progress. It's a good idea to also schedule your study time in advance and try as best as you can to stick to that schedule.
+
+
+
+  
+
+
+
+  
+##### **Tips/Suggestions**
+
+Learning new material can be challenging, so below we've compiled a few suggested study strategies to help you succeed.
+
+Take notes on the various terms, practices, and theories as you read. This can help you differentiate and contextualize concepts and later provide you with a refresher as you study.
+
+As you progress through the materials, take time to test yourself on what you have retained and how well you understand the concepts. The process of reflection is important for creating a memory of the materials you learn; it will increase the probability that you ultimately retain the information.
+
+Although you may work through this course completely independently, you may find it helpful to connect with other Saylor students through the discussion forums. You may access the discussion forums at [https://discourse.saylor.org](https://discourse.saylor.org/).
+
+  
+
+
+
+##### **Learning Outcomes**
+
+
 
 Upon successful completion of this course, you will be able to:
 
 -   explain what microbes are, and recognize microbes on micrographs;
--   compare and contrast cells, viruses, and microbes of the three
-    domains of life;
--   discuss pathogenic microbes and their epidemiology, and employ
-    Koch's postulates;
+-   compare and contrast cells, viruses, and microbes of the three domains of life;
+-   discuss pathogenic microbes and their epidemiology, and employ Koch's postulates;
 -   compare and contrast pathogenic protists and bacteria;
 -   explain how opportunistic pathogens case illness;
--   describe the life cycle of protists and helminths that are human
-    pathogens;
+-   describe the life cycle of protists and helminths that are human pathogens;
 -   discuss different mechanisms of viral infections;
--   recognize microorganisms based on their shape, size, arrangement,
-    staining, and culture characteristics;
+-   recognize microorganisms based on their shape, size, arrangement, staining, and culture characteristics;
 -   design ways to control microbial growth;
 -   discuss cellular metabolism in prokaryotes and eukaryotes;
 -   outline antimicrobial methods including antibiotic use;
--   compare and contrast genetics and methods of reproduction in various
-    microorganisms;
--   explain how the human body protects itself and how vaccines protect
-    the body;
+-   compare and contrast genetics and methods of reproduction in various microorganisms;
+-   explain how the human body protects itself and how vaccines protect the body;
 -   compare and contrast innate and adaptive immunity; and
--   discuss uses for microbiology in the food industry and in
-    bioremediation.
+-   discuss uses for microbiology in the food industry and in bioremediation.
 
-### Course Requirements
-
-In order to take this course, you must:  
-  
- √    have access to a computer;  
-  
- √    have continuous broadband Internet access;  
-  
- √    have the ability/permission to install plug-ins or software (e.g.
-Adobe Reader or Flash);  
-  
- √    have the ability to download and save files and documents to a
-computer;  
-  
- √    have the ability to open Microsoft files and documents (.doc,
-.ppt, .xls, etc.);  
-  
- √    be competent in the English language; and  
-  
- √    have completed the following courses: [BIO101: Introduction to
-Molecular and Cellular Biology](http://www.saylor.org/courses/bio101a/),
-[BIO102: Introduction to Evolutionary Biology and
-Ecology](http://www.saylor.org/courses/bio102/), and [BIO301: Cell
-Biology](http://www.saylor.org/courses/bio301/). 
-
-### Course Information
-
-Welcome to BIO307: Microbiology! General information on the course and
-its requirements can be found below.  
-  
- **Course Designer:** Amy L. Thompson, PhD, MLS (ASCP)  
-  
- **Primary Resources:** This course is comprised of a range of different
-free, online materials. However, the course makes primary use of the
-following materials:  
-
--   University of South Carolina’s School of Medicine: [Microbiology and
-    Immunology Online](http://pathmicro.med.sc.edu/book/welcome.htm)
--   Dr. Kenneth Todar’s *[Online Textbook of
-    Bacteriology](http://www.textbookofbacteriology.net/)*
--   Dr. Gary E. Kaiser’s [BIOL 230 Microbiology Lab
-    Manual](http://faculty.ccbcmd.edu/courses/bio141/labmanua/toc.html)
-
-**Requirements for Completion:** In order to complete this course, you
-will need to work through each unit and all of its assigned materials.
-Pay special attention to Units 1 and 2 as these lay the groundwork for
-understanding the more exploratory material presented in the latter
-units. You will also need to complete the following:  
-
--   Subunit 1.1.1: Assessment
--   Subunit 1.2: Activity
--   Subunit 1.6.2: Assessment
--   Subunit 2.1: Assessment
--   Subunit 2.2: Assessment
--   Subunit 3.1: Assessment
--   Subunit 3.3: Assessment
--   Subunit 3.3.5: Assessment
--   Subunit 3.4: Questions
--   Subunit 4.2.2.2: 2 Quizzes
--   Subunit 5.6: Assessment
--   Subunit 6.5.2: Assessment
--   Subunit 9.2: Assessment
--   The Final Exam
-
-Note that you will only receive an official grade on your Final Exam.
-However, in order to adequately prepare for this exam, you will need to
-work through the quizzes and activities listed above.  
-  
- In order to “pass” this course, you will need to earn a 70% or higher
-on the Final Exam. Your score will be tabulated as soon as you complete
-it. If you do not pass the exam, you may take it again.  
-  
- **Time Commitment:** Completing this course should take you a total of
-**128 hours**. Each unit contains a “time advisory” that lists the
-amount of time that you are expected to spend on each subunit. These
-should help you plan your time accordingly. It may be useful to take a
-look at these time advisories and determine how much time you have over
-the next few weeks to complete each unit and then set goals for
-yourself. Use the time advisories to help you plot out your schedule of
-when you do each unit/subunit and on which days of the week. For
-example, Unit 1 will take 15.75 hours total. You may consider completing
-subunit 1.1.1 (a total of 2.5 hours) on Monday; subunit 1.1.2 (about
-1.75 hours) on Tuesday; and subunit 1.2 (about 2 hours) on Wednesday;
-etc.  
   
 
+
+
+##### **Suggested Prerequisites**
+
+In order to take this course, you should:
+
+-   have read the [Saylor Student Handbook](https://www.saylor.org/handbook/);
+-   have completed [BIO101: Introduction to Molecular and Cellular Biology](https://learn.saylor.org/course/view.php?id=349).
+
+  
