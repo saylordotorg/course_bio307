@@ -375,7 +375,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Antibiotic Resistance”**
     Link: The Saylor Foundation’s [“Antibiotic
-    Resistance”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/BIO307_Unit_3_3_assessment_main.html)
+    Resistance”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/BIO307_Unit_3_3_assessment_main.html)
     (HTML)  
         
      Instructions: Complete this one question assessment. If your answer
